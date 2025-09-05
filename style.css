@@ -37,3 +37,33 @@ body {
   border-radius: 12px;
   border: 1px solid rgba(217, 175, 49, 0.3);
 }
+
+.cta-box01 {
+  background-color: rgba(223, 155, 19, 0.5);
+  color: white;
+  border: 3px solid black;
+  border-radius: 20px;
+  position: absolute;
+  top: 500px;
+  left: 40px;
+}
+
+.cta-box02 {
+  background-color: rgba(223, 155, 19, 0.5);
+  color: white;
+  border: 3px solid black;
+  border-radius: 20px;
+  position: absolute;
+  top: 1300px;
+  left: 40px;
+}
+
+.cta-box03 {
+  background-color: rgba(223, 155, 19, 0.5);
+  color: white;
+  border: 3px solid black;
+  border-radius: 20px;
+  position: absolute;
+  top: 2000px;
+  left: 40px;
+}
