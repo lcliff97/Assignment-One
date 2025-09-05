@@ -22,4 +22,11 @@ body {
 .navbar {
   display: flex;
   justify-content: space-evenly;
+  background-color: linear-gradient(
+    to right,
+    rgb(55, 65, 81),
+    rgb(17, 24, 39),
+    rgb(0, 0, 0)
+  );
+  color: whitesmoke;
 }
