@@ -1,0 +1,15 @@
+.splash {
+  height: 100vh;
+}
+
+.img01 {
+  background-image: url(images/guitar-image-one.jpg);
+}
+
+.img02 {
+  background-image: url(images/guitar-image-two.jpg);
+}
+
+.img03 {
+  background-image: url(images/guitar-image-three.jpg);
+}
