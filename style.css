@@ -28,6 +28,12 @@ body {
   padding: 0;
 }
 
+.BMtitle {
+  display: flex;
+  align-self: flex-start;
+  font-family: sans-serif;
+}
+
 .navbarbackground {
   margin: 0px;
   padding: 0;
