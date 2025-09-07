@@ -89,3 +89,17 @@ body {
 .footer {
   position: static;
 }
+
+.socialsicons img {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 50px;
+  width: auto;
+}
+
+.socialsicons :hover {
+  transform: scale(1.03);
+  background-color: darkgoldenrod;
+  background-size: cover;
+}
